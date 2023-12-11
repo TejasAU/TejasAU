@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tejas Ulabhaje</h1>
+<h1 align="center">Hi , I'm Tejas Ulabhaje</h1>
 <h3 align="center">A passionate developer and Security Engineer</h3>
 
 - 🌱 I’m currently learning **Ethical Hacking and Digital Forensics**
